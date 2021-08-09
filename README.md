@@ -1,4 +1,4 @@
-# t
+# ui-template
 
 ## Project setup
 ```
