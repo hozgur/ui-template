@@ -1,0 +1,19 @@
+{
+    "menu":[
+        {
+            "title": "Sunucu Grupları",
+            "sub-menu": [
+                {
+                    "title": "Tüm Sunucular",
+                    "url": "/group"
+                },
+                {
+                    "title": "Pi Sunucuları -1-",
+                    "url": "/group/p1"
+                },
+
+            ]
+        }
+        
+    ]
+}
