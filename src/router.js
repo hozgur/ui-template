@@ -1,15 +1,15 @@
 
 import {createRouter, createWebHistory} from 'vue-router'
 import Home from './views/Home.vue'
-import AdminPanel from './views/AdminPanel.vue'
+import SamplePanel from './views/SamplePanel/SamplePanel.vue'
 const routes = [
     {
         path:'/',
         component:Home
     },
     {
-        path:'/admin',
-        component:AdminPanel
+        path:'/samplepanel',
+        component:SamplePanel
     },
 ];
 
