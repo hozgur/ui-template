@@ -1,7 +1,7 @@
 <template>
-  <span class="material-icons-outlined">
+  <i class="material-icons-outlined">
     <slot></slot>
-  </span>
+  </i>
 </template>
 
 <script>
